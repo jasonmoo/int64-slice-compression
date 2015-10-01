@@ -1,0 +1,13 @@
+running...
+gzip []byte 1587209
+gzip msgpack []int64 1587217
+gzip gob []int64 1587221
+gzip json []int64 1946868
+[]int64 8388608
+[]byte 8388608
+msgpack []int64 8388613
+gob []int64 8388618
+json []int64 11184815
+gzip bson []int64 21968449
+bson []int64 107940799
+done!
